@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV de Peuborg</title>
+    <!-- Consolidar o estilo em um único ficheiro CSS -->
+    <link rel="stylesheet" href="estilo.css">
+</head>
+
+<body class="dark">
+
+    <header>
+        <h1>Curriculum Vitae</h1>
+        <h2>Anthony Kevin Missias da Silva</h2>
+
+        <figure>
+            <img src="https://im.ge/i/WhatsApp-Image-2024-09-19-at-14-01-18.fehMB6"><img src="https://i.im.ge/2024/09/19/fehMB6.WhatsApp-Image-2024-09-19-at-14-01-18.th.jpeg"
+                alt="Anthony Kevin Missias da Silva">
+        </figure>
+    </header>
+
+    <main>
+        <div class="list">
+            <h3 class="title">Formação</h3>
+            <ul>
+                <li>Ensino Médio Completo</li>
+                <li>Ensino Superior Incompleto (2° Semestre S.I)</li>
+                <li>Curso de auxiliar administrativo</li>
+                <li>Curso de atendente recepcionista</li>
+                <li>Curso de informática</li>
+                <li>Cursando WordPress</li>
+            </ul>
+        </div>
+
+        <div class="list">
+            <h3>Experiências</h3>
+            <ol>
+                <li>Monitoria matemática - CECR (2023)</li>
+            </ol>
+        </div>
+    </main>
+
+    <footer>
+        <div class="ta
